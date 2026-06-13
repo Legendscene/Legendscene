@@ -45,8 +45,7 @@ Currently exploring **Cyber Security** & **System Architecture**.
   <img src="https://github-readme-stats.vercel.app/api?username=Legendscene&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Legendscene&theme=tokyonight&hide_border=true&background=0D1117" width="49%"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legendscene&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendscene&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="59%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendscene&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%"/>
   <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Legendscene&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
 </p>
@@ -78,7 +77,7 @@ Currently exploring **Cyber Security** & **System Architecture**.
 </p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Legendscene&label=VISITORS&countColor=%237C3AED&style=flat"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=Legendscene-total&label=TOTAL+VISITORS&countColor=%237C3AED&style=flat"/>
 </p>
 
 <p align="center">
