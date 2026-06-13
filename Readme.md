@@ -42,12 +42,22 @@ Currently exploring **Cyber Security** & **System Architecture**.
 ### 📊 github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Legendscene&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Legendscene&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icon=percentile" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Legendscene&theme=tokyonight&hide_border=true&background=0D1117" width="49%"/>
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendscene&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendscene&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&custom_title=Contribution+Graph" width="98%"/>
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Legendscene&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Legendscene&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15"/>
+</p>
+
+---
+
+### 🏔️ 3d contribution graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Legendscene/Legendscene/main/profile-3d-contrib/profile-night-rainbow.svg" width="85%"/>
+  <br/>
+  <sub>⚡ will appear once the workflow runs</sub>
 </p>
 
 ---
@@ -60,11 +70,28 @@ Currently exploring **Cyber Security** & **System Architecture**.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Legendscene/Legendscene/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Legendscene/Legendscene/output/github-contribution-grid-snake.svg" />
   </picture>
-  <br/>
-  <sub>⚡ snake will appear once the workflow generates it</sub>
 </p>
 
 ---
+
+### 💭 random dev quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+### 💖 support me
+
+<p align="center">
+  <a href="https://github.com/sponsors/Legendscene"><img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
+  <a href="upi://pay?pa=9458127760@yesfam&pn=Pranay%20Prajapati"><img src="https://img.shields.io/badge/Fampay_UPI-7C3AED?style=for-the-badge&logo=googlepay&logoColor=white"/></a>
+</p>
+
+---
+
+### 🌐 connect with me
 
 <p align="center">
   <a href="https://instagram.com/whois_pranay"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>

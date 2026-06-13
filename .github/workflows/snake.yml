@@ -1,6 +1,3 @@
-# 📍 Save this file at: .github/workflows/snake.yml in your profile repo
-# (the repo whose name is EXACTLY the same as your GitHub username)
-
 name: generate snake animation
 
 on:
