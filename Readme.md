@@ -1,263 +1,164 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12&height=200&section=header&text=Legendscene&fontSize=60&fontAlignY=32&desc=Pranay%20Prajapati%20%E2%80%94%20Developer%20%7C%20Builder%20%7C%20Security%20Researcher&descAlignY=54&animation=twinkling" width="100%"/>
+</p>
+
 <div align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ██╗     ███████╗ ██████╗ ███████╗███╗   ██╗██████╗       ║
-║   ██║     ██╔════╝██╔════╝ ██╔════╝████╗  ██║██╔══██╗      ║
-║   ██║     █████╗  ██║  ███╗█████╗  ██╔██╗ ██║██║  ██║      ║
-║   ██║     ██╔══╝  ██║   ██║██╔══╝  ██║╚██╗██║██║  ██║      ║
-║   ███████╗███████╗╚██████╔╝███████╗██║ ╚████║██████╔╝      ║
-║   ╚══════╝╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═════╝       ║
-║                                                              ║
-║   ⚡ Developer  •  🛡️ Security Researcher  •  🏗️ Builder   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=BB9AF7&center=true&vCenter=true&width=800&lines=console.log(%22Hello%2C+World!%22);Pranay+Prajapati+in+the+house;Full+Stack+|+Security+|+Desktop;Building+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
-
-</div>
-
----
-
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║                     SYSTEM INFORMATION                       ║
-╠══════════════════════════════════════════════════════════════╣
-║  NAME:         Pranay "Legendscene" Prajapati               ║
-║  ROLE:         Full Stack & Cross-Platform Developer        ║
-║  LOCATION:     Dehradun, India 🇮🇳                           ║
-║  TIMEZONE:     UTC +05:30                                   ║
-║  STATUS:       Building & Breaking Things 🔨                ║
-║  OS:           Windows / Linux (dual booting life)          ║
-║  EDITOR:       VS Code + Neovim (depends on the mood)       ║
-║  THEME:        Dark Mode Only 🌙                            ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
 
 ```javascript
-// 💫 About Me — The Legend Behind the Code
-
-const legend = {
-  name: "Pranay Prajapati",
-  aka: "Legendscene",
-  mission: [
-    "Build cross-platform apps that actually matter",
-    "Break into Cyber Security — ethically",
-    "Turn coffee ☕ into deployable code"
-  ],
-  currentFocus: "Cyber Security & System Architecture",
-  askMeAbout: [
-    "React", "Node.js", "Flutter", "Electron",
-    ".NET", "System Design", "API Architecture"
-  ],
-  funFact: "I don't write bugs — I add 'unexpected features'",
-  collaboration: "Open source & freelance — always open 🤝",
-  goals2026: "Something absolutely legendary 🚀"
-};
-
-console.log(legend.mission.join("\n• "));
-// Output:
-// • Build cross-platform apps that actually matter
-// • Break into Cyber Security — ethically
-// • Turn coffee ☕ into deployable code
+ ─── ⋆⋅☆⋅⋆ ───  𝙻𝙴𝙶𝙴𝙽𝙳  ─── ⋆⋅☆⋅⋆ ───
 ```
 
----
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3500&pause=700&color=BB9AF7&center=true&vCenter=true&width=700&lines=console.log(%22Hello+World%E2%80%94the+Legend+is+here%22);Building+cross-platform+since+day+one;TypeScript+%7C+Python+%7C+Dart+%7C+C%23+%7C+Kotlin;Breaking+into+cyber+security+in+2026;%E2%80%9CSomething+absolutely+legendary%E2%80%9D" alt="Typing SVG" />
+</a>
+
+<br>
+
+<pre width="100%" style="background: transparent; border: none; padding: 0;">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</pre>
+
+</div>
+
+<p align="center">
+  <a href="https://instagram.com/whois_pranay"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:pranayprajapati@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://pranayprajapati.qzz.io"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 <div align="center">
 
-## ⚡ The Arsenal
+```javascript
+ ── 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 ──
+```
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" /><br/><b>JS</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" /><br/><b>TS</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" /><br/><b>Python</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" /><br/><b>Java</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" /><br/><b>C++</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" /><br/><b>C</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=csharp" width="48" /><br/><b>C#</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dart" width="48" /><br/><b>Dart</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" /><br/><b>PHP</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="48" /><br/><b>Kotlin</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" /><br/><b>React</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br/><b>Next.js</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" /><br/><b>Vue</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=angular" width="48" /><br/><b>Angular</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" /><br/><b>Tailwind</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" /><br/><b>Bootstrap</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sass" width="48" /><br/><b>Sass</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redux" width="48" /><br/><b>Redux</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" /><br/><b>HTML5</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" /><br/><b>CSS3</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br/><b>Node.js</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" /><br/><b>Express</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django" width="48" /><br/><b>Django</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" /><br/><b>Flask</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" /><br/><b>Spring</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="48" /><br/><b>.NET</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql" width="48" /><br/><b>GraphQL</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" /><br/><b>Firebase</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" /><br/><b>MySQL</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br/><b>MongoDB</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" /><br/><b>Flutter</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=electron" width="48" /><br/><b>Electron</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" /><br/><b>Docker</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" /><br/><b>AWS</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=azure" width="48" /><br/><b>Azure</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" /><br/><b>Redis</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" /><br/><b>PostgreSQL</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" /><br/><b>Git</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" /><br/><b>Linux</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" /><br/><b>Figma</b>
-    </td>
-  </tr>
+</div>
+
+<table width="100%" border="0">
+<tr>
+<td width="60%" valign="top">
+
+```typescript
+interface Legend {
+  name:     "Pranay Prajapati";
+  alias:    "Legendscene";
+  mission:  [
+    "Build cross-platform apps (Web + Mobile + Desktop)",
+    "Master cyber security — the ethical way",
+    "Create tools that actually make a difference"
+  ];
+  focus:    "Cyber Security & System Architecture";
+  stack:    ["React", "Node.js", "Flutter", "Electron",
+             ".NET", "System Design", "API Design"];
+  collab:   "Open source & freelance — always open 🤝";
+  motto:    "Coffee in → Code out. Bugs are 'features'.";
+  goal2026: "Something legendary 🚀";
+}
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+```yaml
+⚙️ system info
+━━━━━━━━━━━━━━━━━━━━
+📍  Dehradun, India
+🌐  UTC +05:30
+💻  Windows / Linux
+✏️  VS Code + Neovim
+🎨  Dark mode only
+🔥  Emperor Bot
+```
+
+</td>
+</tr>
 </table>
 
-</div>
-
----
+<br>
 
 <div align="center">
 
-## 📊 System Metrics
+```javascript
+ ── 𝚃𝙷𝙴 𝙰𝚁𝚂𝙴𝙽𝙰𝙻 ──
+```
 
 </div>
 
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║                    GITHUB ANALYTICS                          ║
-╠══════════════════════════════════════════════════════════════╣
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Legendscene&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&custom_title=📈%20GitHub%20Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Legendscene&theme=tokyonight&hide_border=true&background=0D1117" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legendscene&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&size_weight=0.5&count_weight=0.5" width="40%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendscene&theme=tokyo-night&hide_border=true&bg_color=0D1117&custom_title=⚡%20Contribution%20Graph" width="59%" />
-
-</div>
-
-```yaml
-╚══════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,csharp,dart,kotlin,php,html,css" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass,redux" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,dotnet,graphql" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flutter,electron,docker,aws,azure,redis,mongodb,mysql,postgres" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,postman,vercel,npm" />
+</p>
 
 <br>
 
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║                    TROPHY CABINET 🏆                         ║
-╠══════════════════════════════════════════════════════════════╣
+<div align="center">
+
+```javascript
+ ── 𝙴𝙼𝙿𝙴𝚁𝙾𝚁 𝙱𝙾𝚃 ──
 ```
 
+### 🤖 The All-in-One Discord Companion
+
+> **150+ commands • 25+ categories • 10K+ active users • 99.9% uptime**
+>
+> Music • Moderation • Leveling • Tickets • Auto-Responder • Reaction Roles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-10B981?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Built%20With-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+</div>
+
+<br>
+
 <div align="center">
+
+```javascript
+ ── 𝙶𝙸𝚃𝙷𝚄𝙱 𝙰𝙽𝙰𝙻𝚈𝚃𝙸𝙲𝚂 ──
+```
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Legendscene&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Legendscene&theme=tokyonight&hide_border=true&background=0D1117" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legendscene&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&size_weight=0.5&count_weight=0.5" width="40%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendscene&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="59%"/>
+</p>
+
+<br>
+
+<div align="center">
+
+```javascript
+ ── 𝚃𝚁𝙾𝙿𝙷𝚈 𝙲𝙰𝙱𝙸𝙽𝙴𝚃 ──
+```
+
 <img src="https://github-profile-trophy.vercel.app/?username=Legendscene&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
 
-```yaml
-╚══════════════════════════════════════════════════════════════╝
-```
+</div>
 
 <br>
 
 <div align="center">
 
-## 🐍 Contribution Snake
-
-The snake is eating my commits... 🐍
+```javascript
+ ── 𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙸𝙾𝙽 𝚂𝙽𝙰𝙺𝙴 ──
+```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Legendscene/Legendscene/output/github-contribution-grid-snake-dark.svg" />
@@ -267,49 +168,32 @@ The snake is eating my commits... 🐍
 
 </div>
 
----
+<br>
 
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║                    CONNECT WITH ME                           ║
-╠══════════════════════════════════════════════════════════════╣
-║  Let's build something legendary together.                   ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<pre width="100%" style="background: transparent; border: none; padding: 0;">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</pre>
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/whois_pranay)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranayprajapati@email.com)
+```javascript
+ ── 𝙻𝙴𝚃'𝚂 𝙲𝙾𝙽𝙽𝙴𝙲𝚃 ──
+```
 
-<a href="https://pranayprajapati.qzz.io">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+<br>
+
+<img src="https://visitcount.itsvg.in/api?id=Legendscene&icon=8&color=10B981" />
+
+<br>
+
+<sub>⚡ "Code is poetry — I just write epics" ⚡</sub>
+<br><br>
+<a href="https://github.com/Legendscene">
+  <img src="https://img.shields.io/badge/Follow%20the%20Legend-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br>
-
-<img src="https://visitcount.itsvg.in/api?id=Legendscene&icon=2&color=6" />
-
 </div>
 
----
-
-<div align="center">
-  <sub>⬇️  Click below to check out what I'm working on  ⬇️</sub>
-  <br><br>
-  <a href="https://github.com/Legendscene/Legendscene">
-    <img src="https://img.shields.io/badge/Legendscene%20HQ-%237F3FCE.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-
-```ascii
-     ▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
-     ▌  ⚡ "Code is poetry — I just write epics"  ▐
-     ▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀
-```
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12&height=120&section=footer" width="100%"/>
+</p>
