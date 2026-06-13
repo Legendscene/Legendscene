@@ -5,12 +5,12 @@
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whois_pranay)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://pranayprajapati.qzz.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranayprajapati@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranay-prajapati-0a26b8402)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/legendscen)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/legendscene)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1189590421307924562)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pranayprajapati.qzz.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranayprajapati444@gmail.com)
 
 </div>
 
@@ -18,15 +18,14 @@
 
 ### 👋 **About Me**
 
-> Building cross-platform applications — Web, Mobile & Desktop — end to end.  
-> Currently exploring **Cyber Security** and pushing into **System Architecture**.  
-> Open for collaborations, freelance gigs, and open-source contributions.
+Full Stack Developer & Engineer crafting high-performance digital products.  
+Bridging complex architecture with pixel-perfect experiences.  
+Currently exploring Cyber Security & System Architecture.
 
-- 🔭 Building **cross-platform apps** across Web, Mobile & Desktop
+- 🔭 Building **cross-platform apps** — Web, Mobile & Desktop
 - 🌱 Deep diving into **Cyber Security & System Architecture**
 - 💡 Ask me about **React, Node.js, Flutter, Electron, .NET, System Design**
 - ⚡ 2026 goal: **Something absolutely legendary** 🚀
-- ☕ Fuelled by coffee, driven by curiosity
 
 ---
 
@@ -90,16 +89,10 @@
 
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=Legendscene&icon=8&color=7C3AED"/>
-
-<br/><br/>
-
-*⚡ "Code is poetry — I just write epics"*
-
-[![GitHub](https://img.shields.io/badge/Legendscene-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Legendscene)
+<img src="https://visitcount.itsvg.in/api?id=Legendscene&icon=0&color=ffffff"/>
 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:10B981,50:7C3AED,100:0D1117&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:000000,100:000000&section=footer" width="100%"/>
 </p>
