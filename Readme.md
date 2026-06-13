@@ -56,8 +56,6 @@ Currently exploring **Cyber Security** & **System Architecture**.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Legendscene/Legendscene/main/profile-3d-contrib/profile-night-rainbow.svg" width="85%"/>
-  <br/>
-  <sub>⚡ will appear once the workflow runs</sub>
 </p>
 
 ---
