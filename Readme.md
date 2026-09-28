@@ -23,42 +23,6 @@ Currently exploring **Cyber Security** & **System Architecture**.
 
 ---
 
-### 🛠️ stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?perline=12&i=js,ts,python,java,cpp,c,csharp,dart,kotlin,php,go,rust" />
-  <br/>
-  <img src="https://skillicons.dev/icons?perline=12&i=react,nextjs,vue,angular,tailwind,bootstrap,sass,redux,html,css" />
-  <br/>
-  <img src="https://skillicons.dev/icons?perline=12&i=nodejs,express,django,flask,spring,dotnet,graphql" />
-  <br/>
-  <img src="https://skillicons.dev/icons?perline=12&i=flutter,electron,mongodb,mysql,postgres,firebase,redis,docker,aws,azure" />
-  <br/>
-  <img src="https://skillicons.dev/icons?perline=12&i=git,github,linux,figma,postman,vercel,npm" />
-</p>
-
----
-
-### 📊 github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Legendscene&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icon=percentile" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Legendscene&theme=tokyonight&hide_border=true&background=0D1117" width="49%"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendscene&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&custom_title=Contribution+Graph" width="98%"/>
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Legendscene&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15"/>
-</p>
-
----
-
-### 🏔️ 3d contribution graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Legendscene/Legendscene/main/profile-3d-contrib/profile-night-rainbow.svg" width="85%"/>
-</p>
-
----
 
 ### 🐍 contribution snake
 
@@ -76,15 +40,6 @@ Currently exploring **Cyber Security** & **System Architecture**.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-### 💖 support me
-
-<p align="center">
-  <a href="https://github.com/sponsors/Legendscene"><img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
-  <a href="upi://pay?pa=9458127760@yesfam&pn=Pranay%20Prajapati"><img src="https://img.shields.io/badge/Fampay_UPI-7C3AED?style=for-the-badge&logo=googlepay&logoColor=white"/></a>
 </p>
 
 ---
