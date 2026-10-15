@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-label="Legendscene profile banner">
+  <title>LEGENDSCENE — Pranay Prajapati</title>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="divider" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58A6FF"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161B22" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="560" fill="#0D1117"/>
+  <rect width="1600" height="560" fill="url(#grid)"/>
+  <ellipse cx="320" cy="110" rx="430" ry="230" fill="url(#glowBlue)"/>
+  <ellipse cx="1290" cy="460" rx="470" ry="250" fill="url(#glowViolet)"/>
+  <rect x="0" y="0" width="1600" height="3" fill="url(#edge)"/>
+  <rect x="0" y="557" width="1600" height="3" fill="url(#edge)"/>
+
+  <!-- subtle geometric circuit lines -->
+  <g fill="none" stroke-linecap="round" opacity="0.9">
+    <path d="M 90 470 L 190 470 L 230 430 L 320 430" stroke="#58A6FF" stroke-opacity="0.35" stroke-width="1.5"/>
+    <circle cx="90" cy="470" r="4" fill="#0D1117" stroke="#58A6FF" stroke-opacity="0.6" stroke-width="1.5"/>
+    <circle cx="320" cy="430" r="4" fill="#0D1117" stroke="#58A6FF" stroke-opacity="0.6" stroke-width="1.5"/>
+    <path d="M 1510 90 L 1410 90 L 1370 130 L 1280 130" stroke="#A78BFA" stroke-opacity="0.35" stroke-width="1.5"/>
+    <circle cx="1510" cy="90" r="4" fill="#0D1117" stroke="#A78BFA" stroke-opacity="0.6" stroke-width="1.5"/>
+    <circle cx="1280" cy="130" r="4" fill="#0D1117" stroke="#A78BFA" stroke-opacity="0.6" stroke-width="1.5"/>
+  </g>
+  <g fill="none" stroke="#30363D" stroke-width="1.5" opacity="0.9">
+    <polygon points="800,84 856,116 856,180 800,212 744,180 744,116"/>
+    <circle cx="800" cy="148" r="5" fill="#58A6FF" stroke="none" opacity="0.9"/>
+  </g>
+
+  <!-- corner labels -->
+  <text x="48" y="52" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="22" fill="#58A6FF" letter-spacing="2">~/legendscene</text>
+  <text x="1552" y="52" text-anchor="end" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="22" fill="#8B949E" letter-spacing="2">UTTARAKHAND · IN</text>
+
+  <!-- identity -->
+  <text x="800" y="292" text-anchor="middle" font-family="'Segoe UI', Inter, 'SF Pro Display', Arial, sans-serif" font-size="104" font-weight="800" fill="#F0F6FC" letter-spacing="16">LEGENDSCENE</text>
+  <rect x="560" y="322" width="480" height="3" fill="url(#divider)"/>
+  <text x="800" y="372" text-anchor="middle" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="27" fill="#8B949E" letter-spacing="5">PRANAY PRAJAPATI — FULL-STACK DEV · SECURITY RESEARCH</text>
+
+  <!-- pills -->
+  <g font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="21" letter-spacing="3">
+    <rect x="548" y="414" width="150" height="44" rx="22" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+    <text x="623" y="443" text-anchor="middle" fill="#58A6FF">APPS</text>
+    <rect x="716" y="414" width="168" height="44" rx="22" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+    <text x="800" y="443" text-anchor="middle" fill="#F0F6FC">BOTS</text>
+    <rect x="902" y="414" width="150" height="44" rx="22" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+    <text x="977" y="443" text-anchor="middle" fill="#A78BFA">SECURE</text>
+  </g>
+
+  <text x="800" y="516" text-anchor="middle" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="20" fill="#8B949E" letter-spacing="2">KYRX · BUILDING CROSS-PLATFORM APPS, DISCORD TOOLING &amp; API UTILITIES</text>
+</svg>

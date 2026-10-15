@@ -1,65 +1,103 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:7C3AED,100:10B981&text=Pranay+Prajapati&fontColor=ffffff&fontSize=58&fontAlignY=30&desc=Legendscene&descAlignY=54&descSize=20&animation=twinkling" width="100%"/>
-</p>
+<div align="center">
+  <img src="assets/profile-banner.svg" alt="Legendscene — Pranay Prajapati banner" width="100%" />
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=700&color=BB9AF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%26+Engineer;Cyber+Security+Researcher;Open+Source+Contributor;Building+legendary+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%26+Engineer;Security+Researcher;Building+apps%2C+bots+%26+APIs" alt="Typing intro" />
   </a>
-</p>
+</div>
 
----
+<div align="center">
 
-### 👨‍💻 about
+**Pranay Prajapati · @Legendscene · KYRX · Uttarakhand, India**
 
-Full Stack Developer & Engineer crafting high-performance digital products.  
-Bridging complex architecture with pixel-perfect experiences.  
-Currently exploring **Cyber Security** & **System Architecture**.
+I build cross-platform apps, Discord tooling, and security-focused API utilities.
+Currently working across TypeScript / JavaScript, Python, and Kotlin — with a growing focus on cybersecurity and system architecture.
 
-- 🔭 Building cross-platform apps — Web, Mobile & Desktop
-- 🌱 Deep diving into Cyber Security
-- 💡 Ask me about React, Node.js, Flutter, Electron, .NET, System Design
-- ⚡ 2026 goal: Something legendary 🚀
+</div>
 
----
+## Focus
 
+- Cross-platform apps — Web, Mobile & Desktop
+- Discord bots, automation, and developer utilities
+- APIs — rate limiting, monitoring, and hardening
+- Security research and systems learning
 
-### 🐍 contribution snake
+## Stack
 
-<p align="center">
+<div align="center">
+
+**Languages**
+
+[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org/)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://www.python.org/)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark)](https://kotlinlang.org/)
+
+**App & API**
+
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org/)
+[![Electron](https://skillicons.dev/icons?i=electron&theme=dark)](https://www.electronjs.org/)
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/developers/docs/intro)
+
+**Toolbox**
+
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)](https://github.com/features/actions)
+[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.linux.org/)
+[![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com/)
+
+</div>
+
+## Selected work
+
+| Project | What it is |
+|---|---|
+| [darkcaptcha](https://github.com/Legendscene/darkcaptcha) | Captcha-solving package (JavaScript). |
+| [My-Presence](https://github.com/Legendscene/My-Presence) | Turn your Android activity into a sleek Discord presence (Kotlin). |
+| [Surge — Smart API Rate Limiting & Monitoring](https://github.com/Legendscene/Surge-Smart-API-Rate-Limiting-and-Monitoring) | Intelligent rate limiting, real-time monitoring, and DDoS protection for modern APIs (TypeScript). |
+| [My-Presence-Desktop](https://github.com/Legendscene/My-Presence-Desktop) | Desktop client in the My-Presence series (TypeScript). |
+
+More: [Discord-Bulk-Emoji-Downloader](https://github.com/Legendscene/Discord-Bulk-Emoji-Downloader) · [optinix](https://github.com/Legendscene/optinix) · [github-profiles-template](https://github.com/Legendscene/github-profiles-template)
+
+## Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Legendscene&show_icons=true&theme=transparent&title_color=58A6FF&text_color=F0F6FC&icon_color=A78BFA&bg_color=0D1117&hide_border=true&include_all_commits=true" alt="GitHub stats for Legendscene" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legendscene&layout=compact&theme=transparent&title_color=58A6FF&text_color=F0F6FC&bg_color=0D1117&hide_border=true" alt="Top languages for Legendscene" />
+</div>
+
+## Activity
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+  <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Legendscene/Legendscene/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Legendscene/Legendscene/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Legendscene/Legendscene/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Legendscene/Legendscene/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
-</p>
+</div>
 
----
+## Connect
 
-### 💭 random dev quote
+<div align="center">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-pranayprajapati.qzz.io-0D1117?style=flat&logo=vercel&logoColor=58A6FF)](https://pranayprajapati.qzz.io)
+[![Website](https://img.shields.io/badge/Web-emperorbot.indevs.in-0D1117?style=flat&logo=googlechrome&logoColor=A78BFA)](https://emperorbot.indevs.in)
+[![Email](https://img.shields.io/badge/Email-pranayprajapati444@gmail.com-0D1117?style=flat&logo=gmail&logoColor=F0F6FC)](mailto:pranayprajapati444@gmail.com)
+<br />
+[![Instagram](https://img.shields.io/badge/Instagram-whois_pranay-0D1117?style=flat&logo=instagram&logoColor=F0F6FC)](https://www.instagram.com/whois_pranay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranay_Prajapati-0D1117?style=flat&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/pranay-prajapati-0a26b8402)
+[![X](https://img.shields.io/badge/X-legendscen-0D1117?style=flat&logo=x&logoColor=F0F6FC)](https://twitter.com/legendscen)
+[![Twitch](https://img.shields.io/badge/Twitch-legendscene-0D1117?style=flat&logo=twitch&logoColor=A78BFA)](https://twitch.tv/legendscene)
+[![Discord](https://img.shields.io/badge/Discord-legendscene-0D1117?style=flat&logo=discord&logoColor=58A6FF)](https://discord.com/users/1189590421307924562)
 
----
+</div>
 
-### 🌐 connect with me
-
-<p align="center">
-  <a href="https://instagram.com/whois_pranay"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/pranay-prajapati-0a26b8402"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/legendscen"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://twitch.tv/legendscene"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://discord.com/users/1189590421307924562"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://pranayprajapati.qzz.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:pranayprajapati444@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Legendscene-total&label=TOTAL+VISITORS&countColor=%237C3AED&style=flat"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:10B981,50:7C3AED,100:000000&section=footer" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0D1117,50:161B22,100:0D1117&section=footer" width="100%" alt="Footer wave" />
+</div>
